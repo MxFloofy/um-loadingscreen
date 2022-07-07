@@ -1,4 +1,19 @@
-- Araç yıkama fiyatı 300$ çekildi.
-- Valedeki ufak bug halledildi.
-- Artık illegal satışta paketlenmiş kokain vermeniz gerek.
-- Optimize sorunları düzeltildi.
+Change-Log 0.0.2
+7/7/2022
+
+ADDED
+TLS Beanie
+TLS Tattoos
+TLS Oakleys
+Female EUP Pack 
+Few Male EUP
+SADOT Vehicles
+Speed Limit Display
+Taser Model
+
+CHANGED
+Moved the P226 from Addon
+> Giving it the ability to have attachments 
+
+REMOVED
+Repair option from vMenu
