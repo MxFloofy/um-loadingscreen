@@ -1,19 +1,21 @@
-Change-Log 0.0.2
-7/7/2022
+Change-Log 0.0.3
+7/12/2022
 
 ADDED
-TLS Beanie
-TLS Tattoos
-TLS Oakleys
-Female EUP Pack 
-Few Male EUP
-SADOT Vehicles
-Speed Limit Display
-Taser Model
+Better AI Script
+(Makes It So AI Will Pull Over When You Are Responding To A Call)
+SADOT EUP 
+SADOT VEHICLES
+TOW SCRIPT
+MORE CIVILIAN EUP
+PROP PACK
 
 CHANGED
-Moved the P226 from Addon
-> Giving it the ability to have attachments 
-
+SAFR Fleet Update
+SAFR Eup Overhaul (Addon)
+Fixed bug where /scene would not be able to removed or copied
+Fire Sirens (Server Sided)
 REMOVED
-Repair option from vMenu
+
+Coming Soon 
+Fire Script
